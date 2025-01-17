@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug in PHP related to type juggling when performing arithmetic operations. The bug arises when implicit type conversions lead to unexpected results, particularly with integer addition. The `bug.php` file showcases the erroneous code, and `bugSolution.php` provides the corrected version.
